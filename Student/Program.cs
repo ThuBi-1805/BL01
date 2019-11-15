@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BL01
+namespace Student
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //BL
         }
     }
 }
